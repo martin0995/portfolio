@@ -191,8 +191,8 @@ h5 {
 
 #home .btn {
   background: transparent;
-  border: 2px solid #d33449;
-  color: #d33449;
+  border: 2px solid #f7f2f3;
+  color: #f7f2f3;
   font-size: 16px;
   font-weight: bold;
   width: 180px;
@@ -202,7 +202,7 @@ h5 {
   transition: all 0.4s ease-in-out;
 }
 #home .btn:hover {
-  background: #f7f2f3;
+  background: #d33449;
   border-color: transparent;
 }
 /* end home */

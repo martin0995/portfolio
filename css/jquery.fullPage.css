@@ -223,3 +223,10 @@ body {
 .rotate-div {
   height: 76px;
 }
+
+.navbar-languages {
+  position: relative;
+  float: right;
+  margin-top: -7%;
+  margin-right: 2%;
+}

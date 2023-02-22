@@ -246,3 +246,16 @@ body {
   color: #fff;
   margin-left: 20px;
 }
+
+.experience-row {
+  margin-left: -10px;
+}
+
+.about-title {
+  margin-bottom: 30px;
+  margin-top: 35px;
+}
+
+.portfolio-content {
+  position: absolute;
+}

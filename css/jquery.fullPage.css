@@ -293,6 +293,11 @@ body {
   text-decoration: none;
   color: white;
   font-size: 250%;
+  transition: all 0.4s ease-in-out;
+}
+
+.portfolio-icons:hover {
+  color: #d43f52;
 }
 
 .portfolio-gallery {
@@ -302,4 +307,12 @@ body {
 .portfolio-font {
   text-align: center;
   border: solid rgb(182, 176, 176) 1px;
+}
+
+.ecommerce-icon-front {
+  float: right;
+}
+
+.ecommerce-icon-back {
+  float: left;
 }

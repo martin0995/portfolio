@@ -226,7 +226,6 @@ body {
 
 .navbar-languages {
   position: relative;
-  float: right;
   margin-top: -7%;
   margin-right: 2%;
 }
@@ -258,4 +257,19 @@ body {
 
 .portfolio-content {
   position: absolute;
+}
+
+.project-nav-btn {
+  position: absolute;
+  left: 0;
+  transform: translateY(-50%);
+  margin-left: 20px;
+  text-align: justify;
+  margin-top: 1%;
+  font-weight: bold;
+  font-size: larger;
+}
+
+.project-nav-lang {
+  float: right;
 }

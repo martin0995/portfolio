@@ -384,3 +384,55 @@ footer hr {
   color: #d43f52;
 }
 /* end social icon */
+
+/* start projects */
+#projects {
+  background: black;
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding-top: 120px;
+  padding-bottom: 140px;
+  text-align: center;
+}
+#projects h1 {
+  border: 2px solid #d43f52;
+  color: #d43f52;
+  display: inline-block;
+  letter-spacing: 6px;
+  padding: 25px 35px;
+  margin: 30px 0;
+  text-align: center;
+}
+#projects h3 {
+  color: #dbdbdb;
+}
+
+#projects h2 {
+  padding-bottom: 10px;
+  color: #dbdbdb;
+}
+
+#projects p {
+  color: #9e9c9c;
+}
+
+#projects .btn {
+  background: #5895c7;
+  border: 2px solid #5895c7;
+  color: white;
+  font-size: 16px;
+  font-weight: bold;
+  width: 110px;
+  height: 40px;
+  margin-top: 1%;
+  padding-top: 18px;
+  transition: all 0.4s ease-in-out;
+  display: inline-flex;
+  align-items: center;
+}
+
+#projects table {
+  text-align: left;
+}
+
+/* end projects */
